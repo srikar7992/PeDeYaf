@@ -1,0 +1,12 @@
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\bin\Debug\net10.0\PeDeYaf.Domain.deps.json
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\bin\Debug\net10.0\PeDeYaf.Domain.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\bin\Debug\net10.0\PeDeYaf.Domain.pdb
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.csproj.AssemblyReference.cache
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.AssemblyInfoInputs.cache
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.AssemblyInfo.cs
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.csproj.CoreCompileInputs.cache
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\refint\PeDeYaf.Domain.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\PeDeYaf.Domain.pdb
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Domain\obj\Debug\net10.0\ref\PeDeYaf.Domain.dll

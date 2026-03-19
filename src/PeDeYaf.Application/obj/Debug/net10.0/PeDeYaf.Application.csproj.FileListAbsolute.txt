@@ -1,0 +1,15 @@
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\bin\Debug\net10.0\PeDeYaf.Application.deps.json
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\bin\Debug\net10.0\PeDeYaf.Application.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\bin\Debug\net10.0\PeDeYaf.Application.pdb
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\bin\Debug\net10.0\PeDeYaf.Domain.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\bin\Debug\net10.0\PeDeYaf.Domain.pdb
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.csproj.AssemblyReference.cache
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.AssemblyInfoInputs.cache
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.AssemblyInfo.cs
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.csproj.CoreCompileInputs.cache
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf..8C9BCDEE.Up2Date
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\refint\PeDeYaf.Application.dll
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\PeDeYaf.Application.pdb
+C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Application\obj\Debug\net10.0\ref\PeDeYaf.Application.dll
