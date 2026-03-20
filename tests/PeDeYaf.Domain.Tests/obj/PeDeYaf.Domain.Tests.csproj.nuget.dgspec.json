@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj": {}
+    "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj": {
+    "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
         "projectName": "PeDeYaf.Domain",
-        "projectPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
+        "projectPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
         "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\obj\\",
+        "outputPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -350,14 +350,14 @@
         }
       }
     },
-    "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj": {
+    "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj",
         "projectName": "PeDeYaf.Domain.Tests",
-        "projectPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj",
+        "projectPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\obj\\",
+        "outputPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -379,8 +379,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj": {
-                "projectPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj"
+              "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj": {
+                "projectPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj"
               }
             }
           }

@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
       "projectName": "PeDeYaf.Domain",
-      "projectPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
+      "projectPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\PeDeYaf.Domain.csproj",
       "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Domain\\obj\\",
+      "outputPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

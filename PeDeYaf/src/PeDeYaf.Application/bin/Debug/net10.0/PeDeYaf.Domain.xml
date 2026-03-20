@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PeDeYaf.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:PeDeYaf.Domain.Entities.Document">
+            <summary>
+            Represents a PDF document uploaded by a User in the system.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Entities.Document.Create(System.Guid,System.String,System.String,System.Int64)">
+            <summary>
+            Creates a new pending document.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Entities.Document.MarkProcessed(System.Int32,System.String,System.String)">
+            <summary>
+            Marks the document as successfully processed and ready for viewing.
+            </summary>
+        </member>
+        <member name="T:PeDeYaf.Domain.Entities.RefreshToken">
+            <summary>
+            Represents a secure refresh token used to obtain new JWT access tokens without requiring the user to re-authenticate.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.Id">
+            <summary>
+            Gets or sets the unique identifier for the refresh token record.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.Token">
+            <summary>
+            Gets or sets the cryptographically secure token string.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.UserId">
+            <summary>
+            Gets or sets the identifier of the user who owns this refresh token.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.ExpiresAt">
+            <summary>
+            Gets or sets the date and time when this token expires.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.CreatedAt">
+            <summary>
+            Gets or sets the date and time when this token was created.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.RevokedAt">
+            <summary>
+            Gets or sets the date and time if this token was revoked. A non-null value indicates the token is no longer valid.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.IsExpired">
+            <summary>
+            Gets a value indicating whether the token has expired.
+            </summary>
+        </member>
+        <member name="P:PeDeYaf.Domain.Entities.RefreshToken.IsActive">
+            <summary>
+            Gets a value indicating whether the token is currently active and usable.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Entities.RefreshToken.Create(System.Guid,System.String,System.Int32)">
+            <summary>
+            Creates a new RefreshToken instance.
+            </summary>
+            <param name="userId">The ID of the user.</param>
+            <param name="token">The secure random token string.</param>
+            <param name="expiresInDays">The number of days until the token expires.</param>
+            <returns>A new <see cref="T:PeDeYaf.Domain.Entities.RefreshToken"/>.</returns>
+        </member>
+        <member name="M:PeDeYaf.Domain.Entities.RefreshToken.Revoke">
+            <summary>
+            Marks the refresh token as revoked, effectively invalidating it.
+            </summary>
+        </member>
+        <member name="T:PeDeYaf.Domain.Repositories.IDocumentRepository">
+            <summary>
+            Defines repository operations for managing Document entities.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Repositories.IDocumentRepository.GetByIdAsync(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Retrieves a document by its unique identifier.
+            </summary>
+            <param name="id">The document ID.</param>
+            <param name="ct">The cancellation token.</param>
+            <returns>The <see cref="T:PeDeYaf.Domain.Entities.Document"/> if found; otherwise, null.</returns>
+        </member>
+        <member name="M:PeDeYaf.Domain.Repositories.IDocumentRepository.GetByIdsAsync(System.Collections.Generic.IEnumerable{System.Guid},System.Threading.CancellationToken)">
+            <summary>
+            Retrieves multiple documents by their identifiers.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Repositories.IDocumentRepository.AddAsync(PeDeYaf.Domain.Entities.Document,System.Threading.CancellationToken)">
+            <summary>
+            Adds a new document to the repository.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Repositories.IDocumentRepository.UpdateAsync(PeDeYaf.Domain.Entities.Document,System.Threading.CancellationToken)">
+            <summary>
+            Updates an existing document in the repository.
+            </summary>
+        </member>
+        <member name="M:PeDeYaf.Domain.Repositories.IDocumentRepository.DeleteAsync(PeDeYaf.Domain.Entities.Document,System.Threading.CancellationToken)">
+            <summary>
+            Deletes a document from the repository.
+            </summary>
+        </member>
+    </members>
+</doc>

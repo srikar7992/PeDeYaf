@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745BB1BC-C032-0E6C-D01D-5925090522E6}|src\\PeDeYaf.Application\\PeDeYaf.Application.csproj|c:\\users\\srika\\desktop\\pedeyaf\\src\\pedeyaf.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745BB1BC-C032-0E6C-D01D-5925090522E6}|src\\PeDeYaf.Application\\PeDeYaf.Application.csproj|solutionrelative:src\\pedeyaf.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7BC34-4884-C6D7-4F12-4C471F83F6AE}|src\\PeDeYaf.Api\\PeDeYaf.Api.csproj|c:\\users\\srika\\desktop\\pedeyaf\\src\\pedeyaf.api\\pedeyaf.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30A7BC34-4884-C6D7-4F12-4C471F83F6AE}|src\\PeDeYaf.Api\\PeDeYaf.Api.csproj|solutionrelative:src\\pedeyaf.api\\pedeyaf.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B48A68-7FF7-7F12-CFA7-81BBFC04C68A}|src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj|c:\\users\\srika\\desktop\\pedeyaf\\src\\pedeyaf.infrastructure\\pedeyaf.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36B48A68-7FF7-7F12-CFA7-81BBFC04C68A}|src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj|solutionrelative:src\\pedeyaf.infrastructure\\pedeyaf.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B424D3F-B93F-DBC3-2AE4-C12EAF4E0B4B}|tests\\PeDeYaf.Api.Integration.Tests\\PeDeYaf.Api.Integration.Tests.csproj|c:\\users\\srika\\desktop\\pedeyaf\\tests\\pedeyaf.api.integration.tests\\pedeyaf.api.integration.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B424D3F-B93F-DBC3-2AE4-C12EAF4E0B4B}|tests\\PeDeYaf.Api.Integration.Tests\\PeDeYaf.Api.Integration.Tests.csproj|solutionrelative:tests\\pedeyaf.api.integration.tests\\pedeyaf.api.integration.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeDeYaf.Api.Integration.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Api.Integration.Tests\\PeDeYaf.Api.Integration.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\PeDeYaf.Api.Integration.Tests\\PeDeYaf.Api.Integration.Tests.csproj",
+              "ToolTip": "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Api.Integration.Tests\\PeDeYaf.Api.Integration.Tests.csproj",
+              "RelativeToolTip": "tests\\PeDeYaf.Api.Integration.Tests\\PeDeYaf.Api.Integration.Tests.csproj",
+              "ViewState": "AgIAABkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T16:27:58.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeDeYaf.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
+              "RelativeToolTip": "src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
+              "ViewState": "AgIAAB0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T16:27:43.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeDeYaf.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Api\\PeDeYaf.Api.csproj",
+              "RelativeDocumentMoniker": "src\\PeDeYaf.Api\\PeDeYaf.Api.csproj",
+              "ToolTip": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Api\\PeDeYaf.Api.csproj",
+              "RelativeToolTip": "src\\PeDeYaf.Api\\PeDeYaf.Api.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T16:27:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\PeDeYaf.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\PeDeYaf.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:21:48.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

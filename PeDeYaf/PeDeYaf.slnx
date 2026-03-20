@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PeDeYaf.Api/PeDeYaf.Api.csproj" />
+    <Project Path="src/PeDeYaf.Application/PeDeYaf.Application.csproj" />
+    <Project Path="src/PeDeYaf.Domain/PeDeYaf.Domain.csproj" />
+    <Project Path="src/PeDeYaf.Infrastructure/PeDeYaf.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PeDeYaf.Api.Integration.Tests/PeDeYaf.Api.Integration.Tests.csproj" />
+    <Project Path="tests/PeDeYaf.Application.Tests/PeDeYaf.Application.Tests.csproj" />
+    <Project Path="tests/PeDeYaf.Domain.Tests/PeDeYaf.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

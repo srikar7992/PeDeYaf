@@ -3990,11 +3990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
       "projectName": "PeDeYaf.Infrastructure",
-      "projectPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\PeDeYaf.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\srika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4016,8 +4016,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Application\\PeDeYaf.Application.csproj": {
-              "projectPath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\src\\PeDeYaf.Application\\PeDeYaf.Application.csproj"
+            "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Application\\PeDeYaf.Application.csproj": {
+              "projectPath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\src\\PeDeYaf.Application\\PeDeYaf.Application.csproj"
             }
           }
         }

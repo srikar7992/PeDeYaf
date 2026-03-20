@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlQ85C9rEIU=",
+  "dgSpecHash": "uaLqD67xRFE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\srika\\.gemini\\antigravity\\scratch\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\srika\\Desktop\\PeDeYaf\\tests\\PeDeYaf.Domain.Tests\\PeDeYaf.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srika\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\srika\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
