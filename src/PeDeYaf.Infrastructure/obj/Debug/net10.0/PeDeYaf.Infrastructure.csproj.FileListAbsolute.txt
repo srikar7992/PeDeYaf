@@ -1,5 +1,0 @@
-C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Infrastructure\obj\Debug\net10.0\PeDeYaf.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Infrastructure\obj\Debug\net10.0\PeDeYaf.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Infrastructure\obj\Debug\net10.0\PeDeYaf.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Infrastructure\obj\Debug\net10.0\PeDeYaf.Infrastructure.AssemblyInfo.cs
-C:\Users\srika\.gemini\antigravity\scratch\PeDeYaf\src\PeDeYaf.Infrastructure\obj\Debug\net10.0\PeDeYaf.Infrastructure.csproj.CoreCompileInputs.cache
